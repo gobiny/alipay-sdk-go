@@ -1,4 +1,4 @@
-module github.com/starudream/alipay-sdk-go
+module github.com/MrCHI/alipay-sdk-go
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
